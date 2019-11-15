@@ -19,7 +19,7 @@ namespace IoCtester
             return getService(prefix, postfix);
         }
 
-        public static IDataService GetDataServiceЦWithDefaults()
+        public static IDataService GetDataServiceWithDefaults()
         {
             return Container.Resolve<IDataService>();
         }

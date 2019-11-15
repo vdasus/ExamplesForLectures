@@ -20,7 +20,7 @@ namespace IoCtester
             Console.WriteLine("-----");
 
             //Default values
-            var des = CompositionRoot.GetDataServiceЦWithDefaults();
+            var des = CompositionRoot.GetDataServiceWithDefaults();
             des.Test("des");
 
             Console.WriteLine("-----");
