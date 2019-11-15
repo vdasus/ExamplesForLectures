@@ -1,0 +1,1 @@
+How to create class with parameters which is not dependencies.
